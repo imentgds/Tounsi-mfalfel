@@ -1,0 +1,5 @@
+-'ahla','selem','aslemaa','bnjr','hi','marhbe'
+-'chnhwelk', 'kifnk', 'chaaml', 'hru','?'
+-'Hay bhy chfama jdid ?', ['hmd', 'hani', 'hamdulh', 'cv'
+-'chntayb', 'dbara', 'daber aaliya', 'chbechnatyb',"chnaamel mekla"
+-'mekla', 'tekl', 'chtekl'
